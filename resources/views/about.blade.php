@@ -24,7 +24,7 @@
                     <canvas id="myCanvas"></canvas>
                 </div>
                 <div class="column right">
-                    <p>egi, itulah nama panggilan aku. aku adalah Mahasiswi Universitas Sriwijaya Semester 4 Sistem Informasi. aku lahir di Tanjung Batu Seberang pada tanggal 08 April 2002. aku tinggal di Desa Tanjung Batu Seberang Kecamatan Tanjung Batu Kabupaten Ogan Ilir. Dunia IT adalah lingkunganku saat ini.  yang paling aku suka. rebahan hobiku, selain rebahan bermain game dan olahraga itulah hobiku.</p>
+                    <p>egi, itulah nama panggilan aku. aku adalah Mahasiswa Universitas Sriwijaya Semester 4 Sistem Informasi. aku lahir di Tanjung Batu Seberang pada tanggal 08 April 2002. aku tinggal di Desa Tanjung Batu Seberang Kecamatan Tanjung Batu Kabupaten Ogan Ilir. Dunia IT adalah lingkunganku saat ini.  yang paling aku suka. rebahan hobiku, selain rebahan bermain game dan olahraga itulah hobiku.</p>
                 </div>
             </div>
         </div>
